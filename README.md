@@ -1,6 +1,6 @@
-# Sample Project
+# Repository for Roland, Ersen'S, Amit, Jason, and Tom doing python
 
-This is as an example on how teams can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template!
+Note: We used a template for this repository from, https://github.com/NASA-Openscapes/sample_project_repository
 
 ## Files
 
