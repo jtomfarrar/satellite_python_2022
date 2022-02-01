@@ -112,3 +112,7 @@ venv.bak/
 *.hdf5
 *.nc
 *.tif
+
+# plots directories
+./plots/*
+./plots_tom/*
