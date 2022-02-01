@@ -112,3 +112,15 @@ venv.bak/
 *.hdf5
 *.nc
 *.tif
+
+# plots directories
+./plots/*
+./plots_tom/*
+
+# accidentally included plots and movies
+*.avi
+*.mpg
+*.mp4
+*.png
+./*/*.png
+
